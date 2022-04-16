@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: 'https://airportal.cn/947387/aDLamFc1EY'
+        default: 'https://airportal.cn/261829/JfRmJMUrDH'
 
 jobs:
   build:
